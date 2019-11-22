@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/eshop.png</file>
+        <file>images/pasticclogo.jpg</file>
+	<file>images/logo.png</file>
+	<file>images/login.png</file>
+	<file>images/exitIcon.png</file>
+	<file>images/valeIcon.png</file>
+	<file>images/newsImage.png</file>
+        <file>images/store.png</file>
+        <file>images/back.png</file>
+        <file>images/logout.png</file>
+        <file>images/user.png</file>
+    </qresource>
+</RCC>
