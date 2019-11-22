@@ -1,2 +1,2 @@
 # CandiVal
-Progetto di Programmazione ad Oggetti A.A 2019-2020
+Progetto di Programmazione ad Oggetti A.A 2018-2019.
