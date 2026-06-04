@@ -1,5 +1,5 @@
 # PAO: *"CandiVal – Sweety Moments"*
-Progetto realizzato per il corso di Programmazione ad Oggetti A.A. 2018–2019. Università degli Studi di Padova, Corso di Laurea Triennale in Informatica.
+Progetto realizzato per il corso di Programmazione ad Oggetti, A.A. 2018–2019. Università degli Studi di Padova, Corso di Laurea Triennale in Informatica.
 
 ## 🍰 Descrizione del Progetto
 
