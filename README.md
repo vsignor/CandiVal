@@ -25,6 +25,6 @@ Il sistema è pensato per l’utilizzo sia da parte del gestore del negozio sia 
 
   
 ## 💻 Tecnologie utilizzate
-* C++
-* Programmazione a oggetti 
-* Architettura basata su classi 
+* C++;
+* Programmazione a oggetti;
+* Architettura basata su classi.
