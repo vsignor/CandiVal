@@ -28,5 +28,3 @@ Il sistema è pensato per l’utilizzo sia da parte del gestore del negozio sia 
 * C++
 * Programmazione a oggetti 
 * Architettura basata su classi 
-* 🏗️ Programmazione a oggetti (classi e gerarchie)
-* 📦 Architettura basata su classi (ereditarietà e oggetti)
